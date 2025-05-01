@@ -1,3 +1,5 @@
+# TL;DR
+OS : Mac M1 Pro
 # Learning Resources
 + [Learn Solidity](https://www.alchemy.com/university/courses/solidity) & [GitHub](https://github.com/alchemyplatform/learn-solidity-presentations)
 + [Solidity (Official)](https://soliditylang.org/)
